@@ -21,7 +21,7 @@ function FormToAddFriend({onAddFriend}) {
         }
 
         onAddFriend(newFriend)
-        console.log(newFriend )
+        // console.log(newFriend )
         setName("");
         setImage("https://i.pravatar.cc/48");
 
